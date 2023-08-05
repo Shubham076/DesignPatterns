@@ -51,7 +51,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Structural.Composite.Main">
+  <component name="RunManager" selected="Application.Structural.Flyweight.Main">
     <configuration name="Behavioural.ChainOfResponsiblity.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Behavioural.ChainOfResponsiblity.Main" />
       <module name="DesignPatterns" />
@@ -91,19 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Structural.Bridge.Main" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Structural.Bridge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Structural.Composite.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Structural.Composite.Main" />
       <module name="DesignPatterns" />
@@ -117,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Structural.Flyweight.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Structural.Flyweight.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Structural.Flyweight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Structural.Flyweight.Main" />
         <item itemvalue="Application.Structural.Composite.Main" />
         <item itemvalue="Application.Behavioural.Command.Main" />
         <item itemvalue="Application.Behavioural.Strategy.Main" />
         <item itemvalue="Application.Behavioural.ChainOfResponsiblity.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
